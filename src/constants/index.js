@@ -46,7 +46,7 @@ const services = [
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "NextJs Developer",
     icon: mobile,
   },
   {
@@ -112,15 +112,16 @@ const technologies = [
     name: "docker",
     icon: docker,
   },
+  
 ];
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
+    title: "Web Developer Intern",
+    company_name: "NGTS",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "April 2023 - NOW",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -129,16 +130,16 @@ const experiences = [
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
+    title: "Reddit Clone",
+    company_name: "Reddit",
     icon: tesla,
-    iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    iconBg: "#FFFF",
+    date: "Dec 2022 - Feb 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Developing and maintaining web applications using Next.js , Chakra-ui & redux.",
+      "creating and managing the data at backend using FireBase.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      
     ],
   },
   {
@@ -198,25 +199,25 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Reddit Clone",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "The main features of a Reddit clone include user-generated content, voting on content, commenting, and subreddits (topic-specific communities).",
     tags: [
       {
-        name: "react",
+        name: "NextJs",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "Chakra-ui",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "Firebase",
         color: "pink-text-gradient",
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/kalashjain1010/Redit",
   },
   {
     name: "Job IT",
