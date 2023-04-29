@@ -220,25 +220,25 @@ const projects = [
     source_code_link: "https://github.com/kalashjain1010/Redit",
   },
   {
-    name: "Job IT",
+    name: "Portfolio",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "This portfolio is the best example where you can see my work on 3d images and creating a web application that can even respond to emails with just using emailjs",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "ThreeJs",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "Tailwind css",
         color: "pink-text-gradient",
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/kalashjain1010/Portfolio-3d",
   },
   {
     name: "Trip Guide",
