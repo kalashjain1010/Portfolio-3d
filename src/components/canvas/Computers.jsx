@@ -30,6 +30,7 @@ const Computers = ({ isMobile }) => {
 };
 
 const ComputersCanvas = () => {
+  //for mobile
   const [isMobile, setIsMobile] = useState(false);
 
   useEffect(() => {
