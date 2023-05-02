@@ -241,20 +241,20 @@ const projects = [
     source_code_link: "https://github.com/kalashjain1010/Portfolio-3d",
   },
   {
-    name: "Trip Guide",
+    name: "Word Counter",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "This app takes user input in the form of a string and returns the total word count and total charcters.It also has additional features like covert to upperCase and LowerCase",
     tags: [
       {
-        name: "nextjs",
+        name: "Reactjs",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "TailwindCss",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "js",
         color: "pink-text-gradient",
       },
     ],
