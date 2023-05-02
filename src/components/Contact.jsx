@@ -32,8 +32,6 @@ const Contact = () => {
     e.preventDefault();
     setLoading(true);
 
-    //template_5o9d5wm
-
 
     emailjs
       .send(
