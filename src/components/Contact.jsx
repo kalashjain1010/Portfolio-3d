@@ -33,7 +33,7 @@ const Contact = () => {
     setLoading(true);
 
     //template_5o9d5wm
-// service_lamq8af
+
 
     emailjs
       .send(
