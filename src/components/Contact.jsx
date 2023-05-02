@@ -34,7 +34,7 @@ const Contact = () => {
 
     //template_5o9d5wm
 // service_lamq8af
-// rww7YYWd1MUNjSXqv
+
     emailjs
       .send(
         'service_lamq8af',
