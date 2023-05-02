@@ -120,7 +120,7 @@ const experiences = [
     title: "Web Developer Intern",
     company_name: "NGTS",
     icon: starbucks,
-    iconBg: "#383E56",
+    iconBg: "#FFFF",
     date: "April 2023 - NOW",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
@@ -259,7 +259,7 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/kalashjain1010/WordCounterUsingReact",
   },
 ];
 
