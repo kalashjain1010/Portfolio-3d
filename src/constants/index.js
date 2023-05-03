@@ -156,8 +156,8 @@ const experiences = [
     ],
   },
   {
-    title: "Full stack Developer",
-    company_name: "Meta",
+    title: "Full stack App",
+    company_name: "Crypto Sensex",
     icon: meta,
     iconBg: "#E6DEDD",
     date: "Jan 2023 - Present",
