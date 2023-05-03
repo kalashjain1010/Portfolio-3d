@@ -143,10 +143,10 @@ const experiences = [
     ],
   },
   {
-    title: "Web Developer",
-    company_name: "Shopify",
+    title: "Referal India",
+    company_name: "Refferal India",
     icon: shopify,
-    iconBg: "#383E56",
+    iconBg: "#ffff",
     date: "Jan 2022 - Jan 2023",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
