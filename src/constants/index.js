@@ -121,7 +121,7 @@ const experiences = [
     company_name: "NGTS",
     icon: starbucks,
     iconBg: "#FFFF",
-    date: "April 2023 - now",
+    date: "April 2023 - NOW",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
